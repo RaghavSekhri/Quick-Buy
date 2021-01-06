@@ -1,0 +1,39 @@
+.login-form{
+  width:100%;
+  max-width:330px;
+  margin:auto;
+  height:100%;
+  padding: 0;
+  font-size: 15px;
+}
+.buy-form{
+  width:100%;
+  max-width:330px;
+  margin:auto;
+  height:100%;
+  padding: 0;
+  font-size: 15px;
+}
+.all{
+  height: 100vh;
+  width: 40vw;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-position: center;
+  padding: 0;
+  margin: 0;
+}
+.overall{
+  background-image: url(./img/bruno-kelzer-LvySG1hvuzI-unsplash.jpg);
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  background-position: center;
+}
+.home{
+  background-color: beige;
+  height:100vh;
+  width:100vw;
+}

@@ -1,0 +1,13 @@
+#buy-page{
+    background-image: url(../img/randy-fath-imbQMqyOlLI-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width:100%;
+    height:100vh;
+}
+#enter{
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 20px;
+}

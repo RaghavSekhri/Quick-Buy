@@ -1,0 +1,9 @@
+#emp-page{
+    background-image: url(../img//mark-wieder-XSrmamzF87w-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width:100%;
+    height:100vh;
+}

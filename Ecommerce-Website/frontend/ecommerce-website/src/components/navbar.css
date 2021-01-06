@@ -1,0 +1,31 @@
+.cart-button{
+    font-size: 15px;
+    position: absolute;
+    left: 30%;
+    font-family: 'Kelly Slab', cursive;
+  }
+  .logout-button{
+    font-size: 15px;
+    position: absolute;
+    left: 70%;
+    font-family: 'Kelly Slab', cursive;
+  }
+  .prod-bttn{
+    font-size: 15px;
+    position: absolute;
+    right: 80%;
+    font-family: 'Kelly Slab', cursive;
+  }
+  .navbar-brand
+  {
+      position: absolute;
+      width: 100%;
+      left: 0;
+      top: 0;
+      text-align: center;
+      margin: auto;
+  }
+  
+  .nav {
+    border-radius: 0px;
+  }

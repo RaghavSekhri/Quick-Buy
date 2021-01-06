@@ -1,0 +1,17 @@
+.left-div{
+    float:left;
+    width:40%;
+}
+.right-div{
+    float:right;
+    width:50%;
+}
+#sub{
+    font-size: 15px;
+    font-family: 'Righteous', cursive;
+    color: #004d66;
+}
+#obj{
+font-family: 'Fredoka One', cursive;
+color: #666633;
+}

@@ -1,0 +1,107 @@
+.explore-products-button{
+    margin-top:270px;
+    margin-left: 50px;
+    width:300px;
+    height:50px; 
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #3399ff;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 15px;
+    transition: all 0.5s;
+    cursor: pointer;
+    opacity: 0.8;
+  }
+  .explore-products-button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  .explore-products-button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  .explore-products-button:hover span {
+    padding-right: 25px;
+  }
+  .explore-products-button:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+  .first-scroll{
+    height: 300px;
+    background-color: #f2f2f2;
+    width:90%;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+  }
+  .first-scroll-image{
+    background-image: url(../img/marek-prygiel-kKgEpUTfH5Y-unsplash.jpg);
+    float:left;  
+    width:50%; 
+    height:300px; 
+    background-size: cover;
+    background-position: center;
+  }
+  .first-scroll-text{
+    float:right; 
+    width:50%; 
+    height:300px; 
+    font-family: 'Dancing Script', cursive;
+    padding-top: 120px;
+    font-weight: bold;
+    font-size: xx-large;
+  }
+  .fixed-photo{
+    background-image: url(../img/Home-Products._CB454409463_.jpg);
+    height:200px;
+    width:50%;
+    margin: 0 auto;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .second-scroll{
+    height: 300px;
+    background-color: #f2f2f2;
+    width: 100vw;
+    width:80%;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .second-scroll-image{
+    background-image: url(../img/daniel-romero-0D4mQTdGNHs-unsplash.jpg);
+    float:right;  
+    width:50%; 
+    height:300px; 
+    background-size: cover;
+    background-position: center;
+  }
+  .second-scroll-text{
+    float:left; 
+    width:50%; 
+    height:300px; 
+    font-family: 'Dancing Script', cursive;
+    padding-top: 120px;
+    font-weight: bold;
+    font-size: xx-large;
+  }
+  .overall-start{
+    background-color: #e6e6e6;
+  }
+  .homepage{
+    background-image: url(../img/erik-mclean-nfoRa6NHTbU-unsplash.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+  }
+  

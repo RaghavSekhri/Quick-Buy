@@ -1,0 +1,30 @@
+.buy-bttn{
+background-color: #f44336;
+border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition-duration: 0.4s;    
+}
+.buy-bttn:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#cart-items{
+  font-family: 'Sriracha', cursive;
+}
+#column-items{
+  font-family: 'Zhi Mang Xing', cursive;
+  font-size: 35px;
+  color: #990000;
+}
+#title-name{
+  color:  #668cff;
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 40px;
+}
